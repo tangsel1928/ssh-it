@@ -1,7 +1,4 @@
 #!/bin/bash
-# Jalankan script ini sebelum upload ke server
-# Menghapus Windows CRLF (\r) dari semua file teks
-
 PROJ_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 echo "Fixing line endings di: $PROJ_DIR"
